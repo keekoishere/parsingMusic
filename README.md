@@ -3,6 +3,7 @@ Educational project to learn web parsing and pratice python + vue.js
 
 # PLAN
 Month of December,
+
 1st week (planning):
 - folder structure;
 - install dependencies;
